@@ -1,1 +1,1 @@
-This is the b.txt file. commit.
+This is the b.txt file.
